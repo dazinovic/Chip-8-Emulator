@@ -1,5 +1,5 @@
 /**
- *	@file	chip8.cpp
+ *	@file	main.cpp
  *	@author	Dejan Azinovic (dazinovic)
  *	@date	01.03.2017
  *
